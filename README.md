@@ -11,6 +11,7 @@
 * ###### [INFORMATION](#information)
 
 ##### ABOUT
+###### <p align="center">An experienced Full Stack Software Engineer with background in building and maintaining server database applications, as well as client-side rendering for intuitive and responsive operating systems. Proven analytical and problem-solving abilities, supported by intensive training and verifiable certifications in software engineering and server-side computer sciences. Versatile working habits suited for either team-oriented or remote work conditions. Established track record for pursuing new challenges, including those involving opportunities to learn new technologies, languages, coding libraries and frameworks.</p>
 ##### TOP CONTRIBUTIONS
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarretebarnett&repo=trekgambit&layout=compact&theme=algolia)](https://github.com/jarretebarnett/trekgambit) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarretebarnett&repo=LyriChord&layout=compact&theme=algolia)](https://github.com/jarretebarnett/LyriChord) |
 | ------------- | ------------- |
